@@ -1,4 +1,4 @@
-# Soft-Matter-Bayesian-Optimization
+# Process-Knowledge-Informed-Bayesian-Optimization
 
 Python implementation of the Bayesian Optimization methodology is based on the framework proposed in:
 
