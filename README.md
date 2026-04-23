@@ -37,7 +37,7 @@ If you use the code provided in 'Supplementary_BO.ipynb' or its text version 'Su
 
 1. Wei, A. T., Liu, S., Lenhert, S., & Wang, H. (2024).  
    *Improving Bayesian optimization via hierarchical variation modeling for combinatorial experiments given limited runs guided by process knowledge*.  
-   Knowledge-Based Systems, 305, 112596. (Must cite)
+   Knowledge-Based Systems, 305, 112596. (**Must cite**)
 
 2. Liu, S., Wei, A. T., Wang, H., Van Winkle, D., & Lenhert, S. (2023).  
    *Combinatorial mixtures of organic solutes for improved liquid/liquid extraction of ions*.  
