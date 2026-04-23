@@ -33,7 +33,7 @@ This repository is released for **academic research purposes only**.
 - Any use of this code must include proper citation of the associated publication
 - Redistribution or modification requires permission from the authors
 
-If you use the code provided in 'Supplementary_BO.ipynb' or its text version 'Supplementary_BO.txt', please the following works: 
+If you use the code provided in 'Supplementary_BO.ipynb' or its text version 'Supplementary_BO.txt', please cite the following works: 
 
 1. Wei, A. T., Liu, S., Lenhert, S., & Wang, H. (2024).  
    *Improving Bayesian optimization via hierarchical variation modeling for combinatorial experiments given limited runs guided by process knowledge*.  
