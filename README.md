@@ -17,7 +17,7 @@ https://doi.org/10.1039/d3sm00693j
 
 ---
 
-## Usage and License
+## Usage
 
 This repository is released for **academic research purposes only**.
 
@@ -28,6 +28,12 @@ This repository is released for **academic research purposes only**.
 If you use the code provided in 'Supplementary_BO.ipynb' or its text version 'Supplementary_BO.txt', please cite: 
 
 Liu, S., Wei, A. T., Wang, H., Van Winkle, D., & Lenhert, S. (2023). Combinatorial mixtures of organic solutes for improved liquid/liquid extraction of ions. Soft Matter, 19(36), 6903-6910.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+See the LICENSE file for details.
 
 ## Contact
 For permission requests, please contact:  
